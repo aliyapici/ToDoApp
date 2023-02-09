@@ -1,0 +1,7 @@
+{
+    "test":"What will you today??",
+    "empty_task_list":"Come on! Write what to do",
+    "add_task":"What is task?",
+    "remove_task":"This task was deleted",
+    "search_not_found":"We couldn't find what you were looking for."
+}
